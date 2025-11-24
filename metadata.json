@@ -1,0 +1,5 @@
+{
+  "name": "ScreenFlow Capture",
+  "description": "A professional web application to capture, organize, and analyze full-page screenshots of websites across multiple viewports with smart Gemini integration.",
+  "requestFramePermissions": []
+}
